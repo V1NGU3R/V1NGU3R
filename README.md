@@ -105,5 +105,34 @@ Projeto web para biblioteca de filmes
 
 [![GitHub](https://img.shields.io/badge/GitHub-V1NGU3R-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V1NGU3R)
 
-## My Contribution Graph
+
+
+## 🎮 Meu gráfico de contribuições
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/V1NGU3R/V1NGU3R/output/bomberman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/V1NGU3R/V1NGU3R/output/bomberman-contribution-graph.svg"
+    />
+    <img
+      alt="Jogo Bomberman animado com meu gráfico de contribuições do GitHub"
+      src="https://raw.githubusercontent.com/V1NGU3R/V1NGU3R/output/bomberman-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>
+    Animação gerada por
+    <a href="https://github.com/abozanona/pacman-contribution-graph">
+      Contribution Graph Games
+    </a>
+  </sub>
+</p>
 
