@@ -67,6 +67,7 @@ Aplicação acadêmica voltada à organização de alimentos e ao gerenciamento 
 - Integração com API REST.
 - Autenticação de usuários e navegação entre telas.
 - Projeto em desenvolvimento.
+  
   https://github.com/V1NGU3R/despensa_inteligente_frontend
 
 ### 🎮 GameVault
@@ -75,6 +76,7 @@ Projeto mobile para explorar e organizar uma biblioteca de jogos.
 - Desenvolvimento com React Native.
 - Integração com API externa.
 - Funcionalidades relacionadas a jogos e favoritos.
+  
   https://github.com/V1NGU3R/projeto_gamevault
   
 
@@ -84,6 +86,7 @@ Projeto web para biblioteca de filmes
 - Desenvolvimento com React
 - Integração com API
 - Funcionalidades de busca e filtragem
+  
   https://github.com/V1NGU3R/catalogo_filmes
 
 ## 🎯 Objetivos
