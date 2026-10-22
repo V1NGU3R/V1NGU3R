@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 Tenho interesse no desenvolvimento de aplicações web e mobile, integração com APIs e criação de interfaces intuitivas e funcionais. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades na prática.
 
+<div align="center">.
 ## 🚀 Tecnologias e ferramentas
 
 ### 🎨 Front-end
@@ -57,6 +58,8 @@ Tenho interesse no desenvolvimento de aplicações web e mobile, integração co
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ## 📂 Projetos em destaque
 
@@ -101,3 +104,6 @@ Projeto web para biblioteca de filmes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur_Portilio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-portilio-69063a360/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-V1NGU3R-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V1NGU3R)
+
+## My Contribution Graph
+
